@@ -32,7 +32,17 @@ It allows users to search for jobs, view detailed job information, and apply for
 
 - JobCategories
   <img width="1920" height="885" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/88a41fb7-5885-4c68-acb6-02234ec1cc81" />
+  
+- FeaturedJobs
+  <img width="1809" height="885" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/f68f0740-0906-4396-be7b-99fab48ff7a6" />
 
+## Apply Jobs
+<img width="1707" height="870" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/44bcc3ca-aa12-4f9d-9caf-cd34101771d5" />
+
+<img width="1920" height="898" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/f43f0583-c92a-4c25-9f4a-a4b6be477fd7" />
+
+## Success
+<img width="1920" height="893" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/85a28d1f-fc03-4946-a0a2-1eb77da21c32" />
 
 ## Project Structure
 
