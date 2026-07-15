@@ -9,7 +9,7 @@ const Success = () => {
 
       <div className="success-card">
 
-        <h1>🎉 Application Submitted Successfully!</h1>
+        <h1> Application Submitted Successfully!</h1>
 
         <p>
           Thank you for applying. Your application has been received successfully.
