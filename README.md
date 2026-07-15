@@ -25,15 +25,15 @@ It allows users to search for jobs, view detailed job information, and apply for
 - Fetch API
 - JSON Server
 
-## Screen Shot
+## ScreenShots
 
 ## Home Page
 <img width="1920" height="956" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/bfa2e490-dd7d-44e8-9d9f-c3676c8b43c9" />
 
-- JobCategories
+### JobCategories
   <img width="1920" height="885" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/88a41fb7-5885-4c68-acb6-02234ec1cc81" />
   
-- FeaturedJobs
+### FeaturedJobs
   <img width="1809" height="885" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/f68f0740-0906-4396-be7b-99fab48ff7a6" />
 
 ## Apply Jobs
