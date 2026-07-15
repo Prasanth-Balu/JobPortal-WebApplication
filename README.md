@@ -38,7 +38,7 @@ It allows users to search for jobs, view detailed job information, and apply for
 
 ## Apply Jobs Page
 
-###Job Details
+### Job Details
 <img width="1707" height="870" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/44bcc3ca-aa12-4f9d-9caf-cd34101771d5" />
 
 ### Apply Job
