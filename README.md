@@ -25,6 +25,7 @@ It allows users to search for jobs, view detailed job information, and apply for
 - Fetch API
 - JSON Server
 
+<img width="1920" height="956" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/beac03a5-24b1-4499-b5c3-822c508b6077" />
 
 
 ## Project Structure
